@@ -1,0 +1,6 @@
+path: . 
+train: dataset/RDD_SPLIT/train/images 
+val: dataset/RDD_SPLIT/val/images 
+
+nc: 4
+names: ['D00', 'D10', 'D20', 'D40']
